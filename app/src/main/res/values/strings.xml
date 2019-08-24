@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginactivity</string>
+    <string name="email_name">Email</string>
+    <string name="pw_name">password</string>
+    <string name="LOGIN_name">LOGIN</string>
+    <string name="dont_name">don\'t have an account Register</string>
+    <string name="Account_name">Login To Your Acoount</string>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">loginactivity</string>
+    <string name="Account_name">ลงชื่อบัญชีของคุณ</string>
+    <string name="LOGIN_name">ลงชื่อเข้าใช้</string>
+    <string name="dont_name">ยังไม่มีบัญผู้ใช้งาน? สมัครเลย</string>
+    <string name="email_name">อีเมล</string>
+    <string name="pw_name">รหัสผ่าน</string>
+</resources>
